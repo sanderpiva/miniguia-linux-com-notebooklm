@@ -97,9 +97,10 @@ Durante a exploração com o NotebookLM, foram elaboradas perguntas estratégica
 
 ### IMPORTANTE! 
 
-Ao considerar as 5 fontes originais, incluindo a **Resgates, Revista**, e solicitar um resumo em áudio (Estúdio), o NotebookLM não limitou a análise apenas às páginas sobre Linux (45-54), incorporando também outros conteúdos.
+Ao considerar as 5 fontes originais, incluindo a **Resgates, Revista**, e solicitar um resumo em áudio (Estúdio), 
+o NotebookLM não limitou a análise apenas às páginas sobre Linux (45-54), incorporando também outros conteúdos.
 Para explorar os recursos do Estúdio sem ruído, refiz o processo sem essa fonte.
-Contudo, para não comprometer a qualidade da base de dados a nível de prompt, reinseri posteriormente a **Resgates, Revista**, dada sua relevância para o tema Linux.
+Contudo, para não comprometer a qualidade da base de dados **a nível de prompt**, reinseri posteriormente a **Resgates, Revista**, dada sua relevância para o tema Linux.
 
 ---
 
