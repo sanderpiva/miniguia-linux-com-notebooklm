@@ -92,18 +92,14 @@ Durante a exploração com o NotebookLM, foram elaboradas perguntas estratégica
 
 ### Cicatrizes (aprendizados e dificuldades)
 
-- Não houve dificuldades técnicas, mas aprendi que prompts mais específicos geram respostas mais contextualizadas.  
-
+- No geral, não houve dificuldades técnicas, porém aprendi que prompts mais específicos geram respostas mais contextualizadas.
 - As respostas foram consistentes com as fontes, sem necessidade de correções.
 
 ### IMPORTANTE! 
 
-Ao incluir a fonte **Resgates, Revista**, e pedir para fazer um **resumo em áudio (Estúdio)** ele não considerou apenas as páginas sobre o Linux (45-54), incluindo outro conteúdo.
-
-Portanto, refiz todo o processo sem essa fonte apenas para explorar o Estúdio e seus recursos. 
-
-Todavia, para não penalizar minha base de dados **a nível de prompt**, inclui novamente a fonte **Resgates, Revista** pela sua relevância sobre Linux. 
-
+Ao considerar as 5 fontes originais, incluindo a **Resgates, Revista**, e solicitar um resumo em áudio (Estúdio), o NotebookLM não limitou a análise apenas às páginas sobre Linux (45-54), incorporando também outros conteúdos.
+Para explorar os recursos do Estúdio sem ruído, refiz o processo sem essa fonte.
+Contudo, para não comprometer a qualidade da base de dados a nível de prompt, reinseri posteriormente a **Resgates, Revista**, dada sua relevância para o tema Linux.
 
 ---
 
