@@ -39,28 +39,94 @@ A seguir estão as fontes selecionadas e utilizadas como base para o estudo no N
 ## 🧩 Engenharia de Prompts e Cicatrizes
 Durante a exploração com o NotebookLM, foram elaboradas perguntas estratégicas para extrair informações relevantes das fontes. Alguns exemplos de prompts utilizados:
 
-- **Prompt 1:** "Quais são as principais diferenças entre distribuições Linux segundo Calado (2018)?"  
-- **Prompt 2:** "Explique como o Android utiliza o kernel Linux, conforme Lima (2017)."  
-- **Prompt 3:** "Liste os principais comandos básicos do Linux para iniciantes."  
-- **Prompt 4:** "Quais vantagens do Linux como sistema embarcado, segundo Zorzo (2002)?"  
+- **Prompt 1:** "Quais as principais diferenças entre o kernel Linux e as distribuições?"  
+- **Prompt 2:** "Qual é a polêmica sobre o nome GNU/Linux?"  
+- **Prompt 3:** "Cite e explique alguns comandos em Linux"  
+- **Prompt 4:** "Quais vantagens do Linux como sistema embarcado?"  
 
 ### Cicatrizes (aprendizados e dificuldades)
-- Algumas respostas iniciais foram muito genéricas, exigindo refinamento dos prompts.  
-- Foi necessário especificar a fonte ou autor para obter respostas mais contextualizadas.  
-- A IA mostrou boa capacidade de resumir conceitos, mas em alguns casos foi preciso pedir exemplos práticos para enriquecer o conteúdo.  
+- Não houve dificuldades técnicas, mas aprendi que prompts mais específicos geram respostas mais contextualizadas.  
+- As respostas foram consistentes com as fontes, sem necessidade de correções.
+- Ao incluir a fonte **Resgates, Revista**, e pedir para fazer um **resumo em áudio (Studio)** ele não considerou apenas as páginas sobre o Linux (45-54), incluindo outro conteúdo.
+Portanto, ao fazer os resumos 'exclui' essa fonte para evitar inconsistencias, apesar do prompt ter funcionado corretamente. 
 
 ---
 
-## 📖 Miniguia de Estudo (Entrega Final - em construção)
-Este miniguia será consolidado ao longo do projeto e incluirá:
+## 🖼️ Evidências Visuais (NotebookLM)
+Para comprovar as interações realizadas com o NotebookLM, foram registradas capturas de tela que mostram os prompts e respostas obtidas.  
+Essas imagens estão disponíveis na pasta `img_src` deste repositório.
 
-- **Resumos estruturados** dos principais tópicos sobre Linux.  
-- **Glossário** com conceitos fundamentais (kernel, shell, distribuição, sistema embarcado, etc.).  
-- **Conjunto de prompts reutilizáveis** para futuras revisões e aprofundamentos.  
+Exemplos de prints incluídos:
+-1 Diferenças entre **Kernel Linux** e **Distribuições**.  
+print1
+print2
+print3
+---
+-2 Debate sobre o nome **GNU/Linux**.  
+print1
+print2
+print3
+---
+-3 Comandos básicos como `ls`, `cp`, `sudo`, `apt-get`.  
+print1
+print2
+print3
+---
+-4 Linux como sistema embarcado.  
+print1
+print2
+---
+#
+
+## 📖 Miniguia de Estudo (Entrega Final)
+
+### 📑 Resumos Estruturados
+**Kernel vs Distribuições**  
+- O kernel é o núcleo do sistema, criado por Linus Torvalds em 1991.  
+- Atua como intermediário entre hardware e software, gerenciando recursos como memória e processador.  
+- As distribuições são sistemas completos, que incluem o kernel + utilitários + aplicativos, prontos para uso (ex.: Ubuntu, Debian, Fedora).  
+
+**Android e Linux**  
+- O Android utiliza o kernel Linux como base para seu funcionamento.  
+- Essa integração garante estabilidade, segurança e compatibilidade com diversos dispositivos móveis.  
+
+**Linux como Sistema Embarcado**  
+- Segundo Zorzo (2002), o Linux é amplamente usado em sistemas embarcados devido à sua flexibilidade e código aberto.  
+- Permite customização para dispositivos específicos, como roteadores, smart TVs e equipamentos industriais.  
+
+**Comandos Essenciais**  
+- `ls`: lista arquivos e diretórios.  
+- `cp`: copia arquivos.  
+- `sudo`: executa comandos com privilégios de administrador.  
+- `apt-get`: gerencia pacotes em distribuições Debian/Ubuntu.  
+- `time`: mede tempo de execução de processos.  
+
+---
+
+### 📘 Glossário de Conceitos
+- **Kernel**: núcleo do sistema operacional, responsável por gerenciar recursos.  
+- **Shell**: interpretador de comandos que conecta usuário e sistema.  
+- **Distribuição (Distro)**: versão completa do Linux com kernel + utilitários + aplicativos.  
+- **GNU/Linux**: denominação que reconhece a união do kernel Linux com ferramentas do projeto GNU.  
+- **Sistema Embarcado**: dispositivos que utilizam Linux adaptado para funções específicas.  
+- **/proc**: diretório virtual que fornece informações sobre processos e estado do sistema.  
+- **sudo**: comando para executar ações com privilégios de administrador.  
+
+---
+
+### 💡 Prompts Reutilizáveis
+- "Explique as diferenças entre kernel Linux e distribuições."  
+- "Como o Android utiliza o kernel Linux?"  
+- "Quais são os principais comandos básicos do Linux e suas funções?"  
+- "Quais vantagens do Linux como sistema embarcado?"  
+- "Qual é a polêmica sobre o nome GNU/Linux?"  
+- "Liste exemplos de distribuições Linux e suas características principais."  
 
 ---
 
 ## 🚧 Próximos Passos
-- Expandir os resumos com base nas fontes curadas.  
-- Construir o glossário de conceitos-chave.  
+- Expandir os resumos com mais detalhes das fontes.  
+- Adicionar exemplos práticos de uso dos comandos.  
+- Inserir prints da pasta `img_src` para ilustrar cada resumo.  
 - Refinar e documentar novos prompts para enriquecer o aprendizado.  
+
