@@ -96,10 +96,13 @@ Durante a exploração com o NotebookLM, foram elaboradas perguntas estratégica
 
 - As respostas foram consistentes com as fontes, sem necessidade de correções.
 
-- Ao incluir a fonte **Resgates, Revista**, e pedir para fazer um **resumo em áudio (Studio)** ele não considerou apenas as páginas sobre o Linux (45-54), incluindo outro conteúdo.
+### IMPORTANTE! 
 
-Portanto, antes de fazer os resumos 'exclui' essa fonte para evitar inconsistencias, apesar dos prompts funcionarem corretamente. 
+Ao incluir a fonte **Resgates, Revista**, e pedir para fazer um **resumo em áudio (Estúdio)** ele não considerou apenas as páginas sobre o Linux (45-54), incluindo outro conteúdo.
 
+Portanto, refiz todo o processo sem essa fonte apenas para explorar o Estúdio e seus recursos. 
+
+Todavia, para não penalizar minha base de dados **a nível de prompt**, inclui novamente a fonte **Resgates, Revista** pela sua relevância sobre Linux. 
 
 
 ---
