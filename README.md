@@ -317,10 +317,6 @@ Foto 2: Pergunta prompt 4 com outra fonte de resposta identificada a esquerda
 ---
 
 
-
-## 🚧 Link projeto no Notebooklm
-
-
 ## 🚧 Link projeto no NotebookLM
 
 Você pode acessar diretamente o projeto no NotebookLM através do link abaixo:
