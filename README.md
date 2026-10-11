@@ -122,23 +122,19 @@ Foto 1: Pergunta prompt 1
 
 <img width="1366" height="724" alt="questao1" src="https://github.com/user-attachments/assets/8fa7ea74-5f20-4640-a49c-e4ae81f22bd5" />
 
-
-
+<hr>
 
 Foto 2: Parte da resposta da pergunta prompt 1 com uma fonte identificada a esquerda 
 
 <img width="1366" height="723" alt="questao1_distro_linux_resposta" src="https://github.com/user-attachments/assets/12fecaf4-4439-4995-9edf-d8fd03a3fe96" />
 
-
+<hr>
 
 Foto 3: Parte da resposta da pergunta prompt 1 com outra fonte identificada a esquerda
 
 <img width="1366" height="722" alt="questao1_linux_fonte1_resposta" src="https://github.com/user-attachments/assets/d828b7bc-aeb4-4fb1-8b5c-8d88e0805e32" />
 
-
-
-
-
+<hr>
 
 **Prompt 2:** "Qual é a polêmica sobre o nome GNU/Linux?"    
 
@@ -170,12 +166,7 @@ Foto 3: Parte da resposta da pergunta prompt 2 com outra fonte identificada a es
 <hr>
 
 
-
-
-
 **Prompt 3:** "Cite e explique alguns comandos em Linux"  
-
-
 
 Foto 1: Pergunta prompt 3
 
@@ -190,7 +181,7 @@ Foto 2: Parte da resposta da pergunta prompt 3 com uma fonte identificada a esqu
 
 <img width="1366" height="729" alt="questao3_ls_fonte4_resposta" src="https://github.com/user-attachments/assets/6f9f5102-482c-43df-9997-5e3b5c826890" />
 
-
+<hr>
 
 
 Foto 3: Parte da resposta da pergunta prompt 3 com outra fonte identificada a esquerda
@@ -198,7 +189,7 @@ Foto 3: Parte da resposta da pergunta prompt 3 com outra fonte identificada a es
 <img width="1366" height="729" alt="questao3_sudo_fontes7_resposta" src="https://github.com/user-attachments/assets/d537207a-2bad-4f2b-a64a-02a266eccf83" />
 
 
-
+<hr>
 
 
 
@@ -210,7 +201,7 @@ Foto 1: Pergunta prompt 4 com uma fonte de resposta identificada a esquerda
 
 <img width="1366" height="729" alt="questao4_linux_embarcado_resposta" src="https://github.com/user-attachments/assets/6c9f6815-9447-4537-a8c2-0bc2325fe7eb" />
 
-
+<hr>
 
 
 Foto 2: Pergunta prompt 4 com outra fonte de resposta identificada a esquerda
