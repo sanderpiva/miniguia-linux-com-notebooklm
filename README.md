@@ -120,25 +120,21 @@ Essas imagens/fotos estão disponíveis na pasta `img_src` deste repositório.
 
 Foto 1: Pergunta prompt 1 
 
-<img width="1366" height="724" alt="questao1" src="https://github.com/user-attachments/assets/ec3f2dd1-3543-4fa0-9f3f-59c5f9572cd8" />
+<img width="1366" height="724" alt="questao1" src="https://github.com/user-attachments/assets/8fa7ea74-5f20-4640-a49c-e4ae81f22bd5" />
 
-<hr>
 
 
 
 Foto 2: Parte da resposta da pergunta prompt 1 com uma fonte identificada a esquerda 
 
-<img width="1366" height="722" alt="questao1_linux_fonte1_resposta" src="https://github.com/user-attachments/assets/ee4c08e5-548c-4b53-92dd-eb9ed4283294" />
-
-<hr>
+<img width="1366" height="723" alt="questao1_distro_linux_resposta" src="https://github.com/user-attachments/assets/12fecaf4-4439-4995-9edf-d8fd03a3fe96" />
 
 
 
 Foto 3: Parte da resposta da pergunta prompt 1 com outra fonte identificada a esquerda
 
-<img width="1366" height="723" alt="questao1_distro_linux_resposta" src="https://github.com/user-attachments/assets/16c040cc-85fd-46c5-9b8e-ac56ea5ada3a" />
+<img width="1366" height="722" alt="questao1_linux_fonte1_resposta" src="https://github.com/user-attachments/assets/d828b7bc-aeb4-4fb1-8b5c-8d88e0805e32" />
 
-<hr>
 
 
 
@@ -150,7 +146,8 @@ Foto 3: Parte da resposta da pergunta prompt 1 com outra fonte identificada a es
 
 Foto 1: Pergunta prompt 2 
 
-<img width="1366" height="728" alt="questao2" src="https://github.com/user-attachments/assets/49d15f17-3be0-4317-89c4-39180f4e0ff2" />
+<img width="1366" height="728" alt="questao2" src="https://github.com/user-attachments/assets/caecf723-d291-4df2-9193-e7606b06bd85" />
+
 
 <hr>
 
@@ -158,7 +155,8 @@ Foto 1: Pergunta prompt 2
 
 Foto 2: Parte da resposta da pergunta prompt 2 com uma fonte identificada a esquerda
 
-<img width="1366" height="730" alt="questao2_composicao_guinu_linux_resposta" src="https://github.com/user-attachments/assets/c260e6c3-5d3f-416c-8bdf-25f65ff189f2" />
+<img width="1366" height="730" alt="questao2_composicao_guinu_linux_resposta" src="https://github.com/user-attachments/assets/18c34b36-3677-4092-bb46-13e361b54bef" />
+
 
 <hr>
 
@@ -166,7 +164,8 @@ Foto 2: Parte da resposta da pergunta prompt 2 com uma fonte identificada a esqu
 
 Foto 3: Parte da resposta da pergunta prompt 2 com outra fonte identificada a esquerda
 
-<img width="1366" height="721" alt="questao2_guinu_linux_fonte1_resposta" src="https://github.com/user-attachments/assets/18b53ea3-614b-42ca-89dc-2c54efe2df4d" />
+<img width="1366" height="721" alt="questao2_guinu_linux_fonte1_resposta" src="https://github.com/user-attachments/assets/4126ef10-bd22-4f25-8eb5-69114eb331c2" />
+
 
 <hr>
 
@@ -180,7 +179,8 @@ Foto 3: Parte da resposta da pergunta prompt 2 com outra fonte identificada a es
 
 Foto 1: Pergunta prompt 3
 
-<img width="1366" height="706" alt="questao3" src="https://github.com/user-attachments/assets/3621d082-a514-4161-b0ef-ffa20b0aea4c" />
+<img width="1366" height="706" alt="questao3" src="https://github.com/user-attachments/assets/d55caf6d-5346-484a-8f55-afe9a73594f7" />
+
 
 <hr>
 
@@ -188,17 +188,15 @@ Foto 1: Pergunta prompt 3
 
 Foto 2: Parte da resposta da pergunta prompt 3 com uma fonte identificada a esquerda
 
-<img width="1366" height="729" alt="questao3_ls_fonte4_resposta" src="https://github.com/user-attachments/assets/20b012db-0288-40b7-a98e-7258ace3596b" />
+<img width="1366" height="729" alt="questao3_ls_fonte4_resposta" src="https://github.com/user-attachments/assets/6f9f5102-482c-43df-9997-5e3b5c826890" />
 
-<hr>
 
 
 
 Foto 3: Parte da resposta da pergunta prompt 3 com outra fonte identificada a esquerda
 
-<img width="1366" height="729" alt="questao3_sudo_fontes7_resposta" src="https://github.com/user-attachments/assets/169afb5c-5e5b-4583-9dd8-12cdf8e71afa" />
+<img width="1366" height="729" alt="questao3_sudo_fontes7_resposta" src="https://github.com/user-attachments/assets/d537207a-2bad-4f2b-a64a-02a266eccf83" />
 
-<hr>
 
 
 
@@ -210,15 +208,15 @@ Foto 3: Parte da resposta da pergunta prompt 3 com outra fonte identificada a es
 
 Foto 1: Pergunta prompt 4 com uma fonte de resposta identificada a esquerda
 
-<img width="1366" height="729" alt="questao4_linux_embarcado_resposta" src="https://github.com/user-attachments/assets/8b804d45-d3e1-417f-b97a-5264df17fc3e" />
+<img width="1366" height="729" alt="questao4_linux_embarcado_resposta" src="https://github.com/user-attachments/assets/6c9f6815-9447-4537-a8c2-0bc2325fe7eb" />
 
-<hr>
 
 
 
 Foto 2: Pergunta prompt 4 com outra fonte de resposta identificada a esquerda
 
-<img width="1366" height="728" alt="questao4_linux_embarcado_portabilidade_resposta" src="https://github.com/user-attachments/assets/79142ab7-204b-4fc8-812b-c0de924d3baf" />
+<img width="1366" height="728" alt="questao4_linux_embarcado_portabilidade_resposta" src="https://github.com/user-attachments/assets/1ef96743-f480-4bad-b36f-ca9c7f4a9f39" />
+
 
 <hr>
 
